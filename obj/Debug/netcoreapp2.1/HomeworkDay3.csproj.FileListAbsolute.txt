@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\bin\Debug\netcoreapp2.1\HomeworkDay3.deps.json
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\bin\Debug\netcoreapp2.1\HomeworkDay3.runtimeconfig.json
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\bin\Debug\netcoreapp2.1\HomeworkDay3.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\bin\Debug\netcoreapp2.1\HomeworkDay3.dll
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\bin\Debug\netcoreapp2.1\HomeworkDay3.pdb
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.csproj.CoreCompileInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.dll
+C:\Users\Remus Iftimie\Engineering45\week2\Day3\HomeworkDay3\obj\Debug\netcoreapp2.1\HomeworkDay3.pdb
